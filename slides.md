@@ -20,10 +20,10 @@ de.NBIer <br>October 2017
 
 ---
 ## !["Galaxy logo"](images/galaxy_logo.png)
-### Data intensive biology for everyone
 
+(Biological) Data analysis for everyone
 - Open, web-based platform
-- For accessible, reproducible, and transparent research
+- Phylosophy: accessible, reproducible, and transparent research
 - Community driven
 
 Note:
@@ -162,7 +162,7 @@ Note:
 <small>Image from ["Galaxy Interactive Environments" tutorial](https://galaxyproject.github.io/training-material/topics/dev/tutorials/interactive-environments/slides.html)</small>
 
 ----
-### Summary
+### Tools and visualization in Galaxy
 
 ![](images/which_viz_flowchart.png) <!-- .element width="80%" -->
 
